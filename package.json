@@ -1,0 +1,21 @@
+{
+  "name": "react-native-turntable",
+  "version": "1.0.0",
+  "description": "Disc rotation button for React native",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "turntable",
+    "button",
+    "circle-button",
+    "circle",
+    "ios",
+    "android",
+    "personality button"
+  ],
+  "author": "Syf",
+  "license": "MIT"
+}
