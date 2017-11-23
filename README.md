@@ -1,5 +1,5 @@
 # React Native TurnTable
-Easy-to-use roulette buttons for React Native App
+Easy-to-use roulette buttons for React Native App,Compatible with android and ios.
 
 ## Installation
 ```
