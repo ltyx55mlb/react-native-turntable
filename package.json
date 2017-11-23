@@ -1,10 +1,17 @@
 {
   "name": "react-native-turntable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disc rotation button for React native",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltyx55mlb/react-native-turntable"
+  },
+  "bugs": {
+    "url": "https://github.com/ltyx55mlb/react-native-turntable/issues"
   },
   "keywords": [
     "react-native",
@@ -16,6 +23,7 @@
     "android",
     "personality button"
   ],
+  "homepage": "https://github.com/ltyx55mlb/react-native-turntable/blob/master/README.md",
   "author": "Syf",
   "license": "MIT"
 }
