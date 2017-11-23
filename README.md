@@ -9,8 +9,7 @@ npm i react-native-turntable --save
 ## Usage
 
 ###Basic Example
-[see full basic example](https://github.com/thegamenicorus/react-native-flexi-radio-button/blob/master/examples/BasicExample/app.js)
-
+[see full basic example](https://github.com/ltyx55mlb/react-native-turntable/example/App.js)
 |![basic_example_ios](http://images.cnblogs.com/cnblogs_com/syfnx/1016118/o_giffff.gif)|![basic_example_android](http://images.cnblogs.com/cnblogs_com/syfnx/1016118/o_androidgif.gif)|
 
 |---------------|----------|
