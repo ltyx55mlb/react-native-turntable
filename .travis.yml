@@ -1,0 +1,5 @@
+language: javascript #语言种类
+
+xcode_project: example/example.xcodeproj # 项目文件相对于.travis.yml文件的路径
+
+xcode_scheme: example/exampleTests #你需要集成测试的scheme
